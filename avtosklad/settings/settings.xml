@@ -1,0 +1,12 @@
+<Autosklad id = "1">
+<StorageDimensions>
+	<Rows> 5 </Rows>
+	<Col> 5 </Col>
+</StorageDimensions>
+
+<Connection type = "serial" label = "Com1" baudRate = "96500" parity = "0" />
+<DataBases>
+	<DataBase name = "Users" path = "C:/usersDB"/>
+	<DataBase name = "Contents" path = "C:/componentsDB"/>
+</DataBases>
+</Autosklad>
